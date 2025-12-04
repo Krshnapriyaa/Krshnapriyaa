@@ -14,7 +14,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-krshnapriyakp-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
-  <img alt="Followers" src="https://img.shields.io/github/followers/Krshnapriyaa?label=Followers&style=for-the-badge" />
 </p>
 
 ---
