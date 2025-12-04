@@ -1,8 +1,4 @@
 <!-- Banner (embedded SVG via data URI) -->
-<p align="center">
-  <img alt="Banner" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='200'><rect width='100%25' height='100%25' fill='%230b3d91'/><text x='50' y='80' font-size='36' fill='%23ffffff' font-family='Arial, Helvetica, sans-serif'>KRISHNA%20PRIYA%20K%20P</text><text x='50' y='120' font-size='18' fill='%23cfe3ff' font-family='Arial, Helvetica, sans-serif'>MCA%20Cybersecurity%20Student%20%C2%B7%20Smart%20System%20Security%20Researcher</text></svg>" width="100%" />
-</p>
-
 <!-- Badges -->
 <!-- Social & Contact -->
 <p align="center">
