@@ -92,11 +92,11 @@ I actively work on projects related to network analysis, cyber deception, incide
 ---
 
 ## GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krshnapriyaa&show_icons=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Krshnapriyaa&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krshnapriyaa&show_icons=true&include_all_commits=true&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshnapriyaa&layout=compact&hide_border=false" height="160" />
 </p>
+
 
 ---
 
