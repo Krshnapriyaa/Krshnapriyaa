@@ -93,8 +93,14 @@ I actively work on projects related to network analysis, cyber deception, incide
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Krshnapriyaa&cc=000000&tc=ffffff&ic=ffffff&bc=000000" height="155">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krshnapriyaa&theme=github" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krshnapriyaa&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krshnapriyaa&theme=github" />
+</p>
+
 
 ---
 
