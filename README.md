@@ -115,9 +115,10 @@ Exploration of VPN privacy, anonymization behavior, and secure tunneling concept
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krshnapriyaa&show_icons=true&include_all_commits=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshnapriyaa&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krshnapriyaa&show_icons=true&include_all_commits=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Krshnapriyaa&layout=compact&hide_border=true" height="165" />
 </p>
+
 
 ---
 
@@ -130,7 +131,7 @@ Exploration of VPN privacy, anonymization behavior, and secure tunneling concept
 ---
 
 ## Contact Information
-**Email:** krishnapriyakp777@gmail.com  
+**Email:** krshnapriyakp@gmail.com  
 **GitHub:** https://github.com/Krshnapriyaa  
 
 ---
