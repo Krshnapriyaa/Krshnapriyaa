@@ -4,15 +4,6 @@
 </p>
 
 <!-- Badges -->
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge" />&nbsp;
-  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0DADEA?style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp;
-  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-CC0000?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
 <!-- Social & Contact -->
 <p align="center">
   <a href="mailto:krshnapriyakp03@gmail.com">
